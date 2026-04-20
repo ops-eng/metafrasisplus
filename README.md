@@ -89,6 +89,10 @@ From Greek to Korean, Romanian to Japanese, MetafrasiPlus handles a wide range o
 
 ---
 
+![Clockie Dockie](MetafrasisPLus_lang_list.png)
+
+---
+
 ## 🧪 **Batch Translation & Automation (Pro)**
 - Translate entire files in one click  
 - Batch‑process multiple `.xcloc` bundles  

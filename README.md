@@ -1,10 +1,10 @@
-# 🚀 MetafrasiPlus for macOS  
+# 🚀 MetafrasisPLus for macOS  
 ### The Fastest, Smartest Way to Localize Your Apps — Powered by Native macOS Tech
 
-MetafrasiPlus is a **native macOS localization powerhouse** built for developers, translators, and teams who want to translate `.xcloc` bundles **fast**, **accurately**, and with **zero friction**.  
-Designed with Swift + SwiftUI, optimized for macOS, and enhanced with Apple’s modern frameworks, MetafrasiPlus turns localization into a smooth, automated workflow.
+MetafrasisPLus is a **native macOS localization powerhouse** built for developers, translators, and teams who want to translate `.xcloc` bundles **fast**, **accurately**, and with **zero friction**.  
+Designed with Swift + SwiftUI, optimized for macOS, and enhanced with Apple’s modern frameworks, MetafrasisPLus turns localization into a smooth, automated workflow.
 
-Whether you're shipping a multilingual app or maintaining a global product, MetafrasiPlus gives you the tools to translate smarter — not harder.
+Whether you're shipping a multilingual app or maintaining a global product, MetafrasisPLus gives you the tools to translate smarter — not harder.
 
 ---
 
@@ -85,7 +85,7 @@ Choose the engine that fits your workflow:
 ---
 
 ## 🌍 **Supports 42+ Languages**
-From Greek to Korean, Romanian to Japanese, MetafrasiPlus handles a wide range of languages with ease.
+From Greek to Korean, Romanian to Japanese, MetafrasisPLus handles a wide range of languages with ease.
 
 ---
 
@@ -144,7 +144,7 @@ From Greek to Korean, Romanian to Japanese, MetafrasiPlus handles a wide range o
 ---
 
 ## 📦 Installation
-MetafrasiPlus is distributed via the **Mac App Store**.  
+MetafrasisPLus is distributed via the **Mac App Store**.  
 (App Store link - soon)
 
 ---
@@ -159,14 +159,14 @@ MetafrasiPlus is distributed via the **Mac App Store**.
 ---
 
 ## ❤️ Built for Developers & Translators
-MetafrasiPlus was created to remove the pain from localization workflows.  
+MetafrasisPLus was created to remove the pain from localization workflows.  
 If you build apps for a global audience, this tool will save you hours — every single release.
 
 ---
 
 ## 📬 Feedback & Support
 Have ideas, feature requests, or found a bug?  
-Open an issue or reach out — your feedback shapes the future of MetafrasiPlus.
+Open an issue or reach out — your feedback shapes the future of MetafrasisPLus.
 
 ---
 

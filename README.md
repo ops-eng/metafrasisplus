@@ -8,6 +8,10 @@ Whether you're shipping a multilingual app or maintaining a global product, Meta
 
 ---
 
+![Clockie Dockie](MetafrasisPLus.png)
+
+---
+
 ## ✨ Key Features
 
 ### 🔍 **Import `.xcloc` Files Instantly**

@@ -8,7 +8,7 @@ Whether you're shipping a multilingual app or maintaining a global product, Meta
 
 ---
 
-![Clockie Dockie](MetafrasisPLus.png)
+![MetafrasisPlus](MetafrasisPLus.png)
 
 ---
 
@@ -19,6 +19,10 @@ Whether you're shipping a multilingual app or maintaining a global product, Meta
 - Import individual files or entire language folders  
 - Automatic detection of default language + target language  
 - Clean, structured workspace with keys, source strings, and translation columns
+
+---
+
+![MetafrasisPlus](AppStore_MetafrasisPLus_2B.png)
 
 ---
 
@@ -44,6 +48,11 @@ Choose the engine that fits your workflow:
 - Smart, context‑aware translations  
 - Great for nuanced or domain‑specific content  
 - Pro‑only feature
+
+
+---
+
+![MetafrasisPlus](AppStore_MetafrasisPLus_3.png)
 
 ---
 

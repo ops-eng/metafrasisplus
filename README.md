@@ -3,6 +3,7 @@
 
 
 # MetafrasisPLus for macOS  
+
 ### The Fastest, Smartest Way to Localize Your Apps — Powered by Native macOS Tech
 
 MetafrasisPLus is a **native macOS localization powerhouse** built for developers, translators, and teams who want to translate `.xcloc` bundles **fast**, **accurately**, and with **zero friction**.  
